@@ -1,0 +1,3 @@
+/home/kali/Development/C&Cplusplus/StupidChat/P1/build-dir/CMakeFiles/rebuild_cache.dir
+/home/kali/Development/C&Cplusplus/StupidChat/P1/build-dir/CMakeFiles/edit_cache.dir
+/home/kali/Development/C&Cplusplus/StupidChat/P1/build-dir/CMakeFiles/Com_P1.dir
